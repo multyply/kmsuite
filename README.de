@@ -1,0 +1,9 @@
+C++ für Webanwendungen
+
+Wie JSP oder die .NET "Idee", verbindet CHTML die Möglichkeiten einer echten Programmiersprache mit der Leichtigkeit moderner Webentwicklung.
+
+Jede "Webseite" besteht aus einer HTML-Entsprechung, und einem "Controller", welcher die Logik implementiert. Selbstverständlich lässt sich auch C++-Code direkt in die HTML-Seite einbetten und mit der Business-Logik verbinden.
+Die Verwaltung der Benutzer-Sessions wird auf Wunsch aktiviert und geht mit der Nutzung eines Datenbank-Backends einher. Der Zugriff auf die Datenbank ist gekapselt und ist Teil des Gesamtkonzepts.
+
+Ähnlich wie "on Rails & Co" gibt es Hilfsprogramme, die beim Verwalten der Webseiten und der deren Controllern unterstützen.
+Ist eine Webpräsenz entwickelt, so wird diese zu echtem Maschinencode kompiliert und somit, frei von jeder Störung, direkt auf der CPU ausgeführt. - Schneller geht es einfach nicht!!!

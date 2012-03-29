@@ -1,0 +1,9 @@
+C++ for webapplications
+
+Like JSP or. NET "idea", combines the capabilities of a real programming language CHTML with the ease of modern web development.
+
+Each "page" consists of an HTML equivalent, and a "controller", which implements the logic. Of course it is also possible C + + code directly embedded into the HTML page and connect with the business logic.
+The management of user sessions will be activated on demand and is associated with the use of a database back-ends. The database access is encapsulated and is part of the overall concept.
+
+Like "on Rails & Co." There are tools that support in managing the websites and their controllers.
+Is a website developed, it will be compiled into real machine code and thus made free from any interference, directly on the CPU. - Quick it's not easy!
